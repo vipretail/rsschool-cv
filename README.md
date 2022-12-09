@@ -1,1 +1,1 @@
-https://vipretail.github.io/rsschool-cv/cv
+https://vipretail.github.io/rsschool-cv/
